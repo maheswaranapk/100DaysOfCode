@@ -18,3 +18,12 @@
 
 **Link to work:** [HackerRank | IPK | Warm-Up](https://github.com/maheswaranapk/DS-and-Algo/commit/771590c7c8c3337346e65d5915ffed91a2ff90f0)
 
+### Day 3: September 18, 2020
+
+**Today's Progress**: CSS Towel | CSS Experiment
+
+**Link to work:** [CSS Towel | Implementation](https://github.com/maheswaranapk/CSS-Experiments/commit/09926f6ee5ba90d0412b2b83a341f1810480343f)
+
+**Link to Demo:** [CSS Towel](https://css.appybot.in/illustration/towel/)
+
+
