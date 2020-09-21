@@ -51,6 +51,14 @@
 
 **Link to Demo:** [CSS Avengers Logo](https://css.appybot.in/illustration/avengers-logo/)
 
+---
+
+### Day 6: September 21, 2020
+
+**Today's Progress**: [JavaScript30 | Day 1](https://javascript30.com/)
+
+**Link to work:** [JavaScript30 | Day 1](https://github.com/maheswaranapk/DS-and-Algo/commit/1dec146b8296b61c6091d6b43f85cf895308c079)
+
 
 
 
