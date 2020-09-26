@@ -59,6 +59,19 @@
 
 **Link to work:** [JavaScript30 | Day 1](https://github.com/maheswaranapk/DS-and-Algo/commit/1dec146b8296b61c6091d6b43f85cf895308c079)
 
+---
+
+### September 22 - 24, 2020 Wasted
+
+---
+
+### Day 7: September 25, 2020 (Restarted)
+
+**Today's Progress**: Solved Hacker Rank > Problem Solving > Data Structures > Linked List
+[Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/) | [Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/) | [Insert a node at the head of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/) | [Delete a Node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list) | [Print in Reverse](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list)
+
+**Link to work:** [Hacker Rank | Linked List | 1 - 5](https://github.com/maheswaranapk/DS-and-Algo/commit/adebb9701f56a96e37aa75826e99de423f8bbbbe)
+
 
 
 
