@@ -74,7 +74,7 @@
 
 ---
 
-### Day 7: September 26, 2020 
+### Day 8: September 26, 2020 
 
 **Today's Progress**: Solved Hacker Rank > Problem Solving > Data Structures > Linked List
 [Insert a node at the head of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/) | [Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list/)
