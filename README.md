@@ -81,6 +81,13 @@
 
 **Link to work:** [Hacker Rank | Linked List | 6 - 7](https://github.com/maheswaranapk/DS-and-Algo/commit/e283263adaa28faca11049fae05681dfc8a5cadb)
 
+### Day 9: September 29, 2020 
+
+**Today's Progress**: Solved Hacker Rank > Problem Solving > Data Structures > Linked List
+Compare two linked lists | Merge two sorted linked lists
+
+**Link to work:** [Hacker Rank | Linked List | 8 - 9](https://github.com/maheswaranapk/DS-and-Algo/commit/a441c4024a695028bcbe95a129bca1f85e5f5f94)
+
 
 
 
