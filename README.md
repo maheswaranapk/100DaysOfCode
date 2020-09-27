@@ -72,6 +72,15 @@
 
 **Link to work:** [Hacker Rank | Linked List | 1 - 5](https://github.com/maheswaranapk/DS-and-Algo/commit/adebb9701f56a96e37aa75826e99de423f8bbbbe)
 
+---
+
+### Day 7: September 26, 2020 
+
+**Today's Progress**: Solved Hacker Rank > Problem Solving > Data Structures > Linked List
+[Insert a node at the head of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/) | [Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list/)
+
+**Link to work:** [Hacker Rank | Linked List | 6 - 7](https://github.com/maheswaranapk/DS-and-Algo/commit/e283263adaa28faca11049fae05681dfc8a5cadb)
+
 
 
 
