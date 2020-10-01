@@ -85,8 +85,7 @@
 
 ### Day 9: September 27, 2020 
 
-**Today's Progress**: Solved Hacker Rank > Problem Solving > Data Structures > Linked List
-Compare two linked lists | Merge two sorted linked lists
+**Today's Progress**: Solved Hacker Rank > Problem Solving > Data Structures > Linked List > Compare two linked lists | Merge two sorted linked lists
 
 **Link to work:** [Hacker Rank | Linked List | 8 - 9](https://github.com/maheswaranapk/DS-and-Algo/commit/a441c4024a695028bcbe95a129bca1f85e5f5f94)
 
@@ -96,4 +95,10 @@ Compare two linked lists | Merge two sorted linked lists
 
 ---
 
+### Day 10: September 30, 2020 
 
+**Today's Progress**: Solved Hacker Rank > Problem Solving > Data Structures > Linked List > Reverse a doubly linked list | Cycle Detection | Delete duplicate-value nodes from a sorted linked list
+
+**Link to work:** [Hacker Rank | Linked List | 10 -12](https://github.com/maheswaranapk/DS-and-Algo/commit/4ad0f4dbcc0f76d514cc02281fad3214a98fdb85)
+
+---
