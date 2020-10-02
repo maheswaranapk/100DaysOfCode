@@ -102,3 +102,11 @@
 **Link to work:** [Hacker Rank | Linked List | 10 -12](https://github.com/maheswaranapk/DS-and-Algo/commit/4ad0f4dbcc0f76d514cc02281fad3214a98fdb85)
 
 ---
+
+### Day 11: October 1, 2020 
+
+**Today's Progress**: Solved Hacker Rank > Problem Solving > Data Structures > Linked List > Get Node Value | Inserting a Node Into a Sorted Doubly Linked List
+
+**Link to work:** [Hacker Rank | Linked List | 13 - 14](https://github.com/maheswaranapk/DS-and-Algo/commit/3363d6d3d7623c428829c586bba84d7b8a1219c9)
+
+---
